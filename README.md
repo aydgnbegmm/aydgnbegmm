@@ -60,7 +60,6 @@ I am a **Mechatronics Engineer** specializing in **Embedded Software**, **Autono
 
 | Repository | Description | Technologies |
 | :--- | :--- | :--- |
-| **[`industrial-edge-quality-inspection`](https://github.com/aydgnbegmm/industrial-edge-quality-inspection)** | **Industry 4.0** Automated Optical Inspection (AOI) system for assembly lines with Modbus TCP PLC registers & MQTT telemetry. | `Computer Vision`, `Edge AI`, `Modbus TCP`, `MQTT`, `Industry 4.0` |
 | **[`Ship-Detection`](https://github.com/aydgnbegmm/Ship-Detection)** | **SAYZEK-ATP** research project on deep learning-based maritime vessel detection and UAV deck landing under adverse weather. | `YOLOv8`, `PyTorch`, `Computer Vision`, `Maritime Dataset` |
 | **[`uav-autonomous-guidance-tracking`](https://github.com/aydgnbegmm/uav-autonomous-guidance-tracking)** | End-to-end autonomous UAV target engagement, Hungarian algorithm tracking, and discrete Kalman filter guidance. | `Python`, `YOLOv8`, `OpenCV`, `Kalman Filter`, `MAVLink` |
 | **[`smart-access-iot-lock`](https://github.com/aydgnbegmm/smart-access-iot-lock)** | **TÜBİTAK 2209-A** funded contactless smart lock running SPI RFID, I2C OLED, and PWM actuator drivers. | `MicroPython`, `SPI`, `I2C`, `RFID MFRC522`, `PWM` |
